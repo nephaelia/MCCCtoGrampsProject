@@ -1,0 +1,28 @@
+Program would need to:
+- recognize:
+    - timestamps
+    - last names
+    - first names
+    - specific strings:
+        - age up events ex: 'Age.YOUNGADULT'
+        - death events ex: 'Deathtype.Electrocution'
+- send, via some api, for each line read:
+    - last name: if exists, skip; if not, add to db and continue
+    - first name: if exists for given last name, skip; if not, add to db and continue
+    - strings: if exists for given first and last name, add with a note
+    - timestamp from line
+    - timestamp information was sent
+
+Need to figure out how Gramps formats its SQL db tables etc.
+https://www.gramps-project.org/wiki/index.php/Gramps_SQL_Database
+might look into exporting one of my existing family trees to test this
+
+will test this backend js for my own use with my own API, I know Gramps has its own API it asks any collaborators to use for official 
+plugins
+(would be interested in doing this eventually- this is a super crazy niche problem I'm solving but for anyone who needs it solved
+it would be HUGE)
+
+Another thing for the future is to get this to work off of actual game files rather than relying on MCCC (which I don't have access to 
+the code for), potentially creating my own mod to pull the information from the game files into a format more ideal for this use
+    - would be good to avoid conflicting with MCCC since I don't want to recreate the entire mod, and it's so widely used. Not sure how
+    this works but will need to look into it if/when I'm working on this

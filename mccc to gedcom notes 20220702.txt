@@ -1,0 +1,4 @@
+should take:
+-"created household" lines and store as notes (incl entire line, incl timestamp)
+	-recognize words in line like "unknown", "filter_mailman1", "pet" etc and tag with 	correct tags
+

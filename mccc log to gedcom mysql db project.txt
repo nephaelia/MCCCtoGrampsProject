@@ -1,0 +1,10 @@
+https://www.digitalocean.com/community/tutorials/how-to-import-and-export-databases-in-mysql-or-mariadb
+
+https://www.gramps-project.org/wiki/index.php/Getting_started_with_Gramps_development
+
+https://www.gramps-project.org/wiki/index.php/Addons_development
+
+-should work on backend stuff first possibly
+-should learn basic python first
+-can probably write the file reading/intrpreting end on my own first? just have it send to a temp db using my own api, then translate it to gramps' api once I have permissions/more specific knowledgee 
+/Users/nephaelia/Documents/Sims 4 CC Mods Data Etc/mccc files/FL mc_cmd_center log 20220602.log

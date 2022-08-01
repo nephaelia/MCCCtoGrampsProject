@@ -1,0 +1,11 @@
+  fs.appendFile('NamesFromGetpop.txt', "\n" + arr.join("\n"), err => { 
+            if (err) {
+                console.error(err);
+            }
+        });
+
+
+        const results = arr.filter(element => {
+            return element !== null;
+          }); 
+          console.log(results)

@@ -1,0 +1,801 @@
+-------------------------------------- Get Population Details --------------------------------------
+Parameters used: A,G,PET,V,MM,WT,SV,CULL,F,H,HO,IMM,M,P,S,AG,C,CL
+Total Time Played: 08:52:21.920 day:0 week:0
+----------------------------------------------------------------------------------
+Madison Finney is a young adult
+Madison Finney lives on a lot: Hallow Slough
+Madison Finney is single
+Cora Corvarrius is a young adult
+Cora Corvarrius lives on a lot: Hallow Slough
+Cora Corvarrius is single
+Cora Corvarrius is an alien
+Eric Lewis is a young adult
+Eric Lewis lives on a lot: Cypress Terrace
+Eric Lewis is married
+Vivian Lewis is an elder
+Vivian Lewis lives on a lot: Cypress Terrace
+Vivian Lewis is single
+Alice Spencer-Kim is a young adult
+Alice Spencer-Kim lives on a lot: Cypress Terrace
+Alice Spencer-Kim is married
+Dennis Kim is an elder
+Dennis Kim lives on a lot: Cypress Terrace
+Dennis Kim is single
+Olivia Kim-Lewis is a child
+Olivia Kim-Lewis lives on a lot: Cypress Terrace
+Olivia Kim-Lewis is single
+Bob Pancakes is a young adult
+Bob Pancakes lives on a lot: Pique Hearth
+Bob Pancakes is married
+Bob Pancakes is employed in: career_Adult_Culinary on None
+Eliza Pancakes is a young adult
+Eliza Pancakes lives on a lot: Pique Hearth
+Eliza Pancakes is married
+Bella Goth is a young adult
+Bella Goth lives on a lot: Ophelia Villa
+Bella Goth is married
+Bella Goth is employed in: career_Adult_SecretAgent on None
+Mortimer Goth is an adult
+Mortimer Goth lives on a lot: Ophelia Villa
+Mortimer Goth is married
+Mortimer Goth is employed in: career_Adult_Writer on None
+Cassandra Goth is a teen
+Cassandra Goth lives on a lot: Ophelia Villa
+Cassandra Goth is single
+Alexander Goth is a child
+Alexander Goth lives on a lot: Ophelia Villa
+Alexander Goth is single
+Travis Scott is a young adult
+Travis Scott lives on a lot: Garden Essence
+Travis Scott is single
+Travis Scott is employed in: career_Adult_TechGuru on None
+Liberty Lee is a young adult
+Liberty Lee lives on a lot: Garden Essence
+Liberty Lee is single
+Liberty Lee is employed in: career_Adult_Astronaut on None
+Summer Holiday is a young adult
+Summer Holiday lives on a lot: Garden Essence
+Summer Holiday is single
+Summer Holiday is employed in: career_Adult_Culinary on None
+Alex Moyer is a young adult
+Alex Moyer is a homeless Sim
+Alex Moyer is single
+Alex Moyer will not die because of the <class 'sims4.tuning.instances.trait_SpecialNPC_isFTUERoommate'> trait
+Bess Sterling is a young adult
+Bess Sterling lives on a lot: The Old Mill
+Bess Sterling is single
+Bess Sterling is employed in: careers_Adult_CivilDesigner on None
+Jules Rico is a young adult
+Jules Rico lives on a lot: The Old Mill
+Jules Rico is single
+Jules Rico is employed in: career_Adult_StyleInfluencer on None
+Knox Greenburg is a young adult
+Knox Greenburg lives on a lot: The Portsmouth Promenade
+Knox Greenburg is single
+Mary Greenburg is an elder
+Mary Greenburg lives on a lot: The Portsmouth Promenade
+Mary Greenburg is married
+Blossom Greenburg is an elder
+Blossom Greenburg lives on a lot: The Portsmouth Promenade
+Blossom Greenburg is married
+Cletus Harris is a young adult
+Cletus Harris lives on a lot: Miner Mansion
+Cletus Harris is married
+Faye Harris is a young adult
+Faye Harris lives on a lot: Miner Mansion
+Faye Harris is married
+Faye Harris is employed in: career_Adult_Culinary on None
+Jeb Harris is a teen
+Jeb Harris lives on a lot: Miner Mansion
+Jeb Harris is single
+Gideon Harris is a child
+Gideon Harris lives on a lot: Miner Mansion
+Gideon Harris is single
+Francine Spencer is an elder
+Francine Spencer lives on a lot: Miner Mansion
+Francine Spencer is single
+Tina Tinker is a young adult
+Tina Tinker lives on a lot: Pigulock Manor
+Tina Tinker is married
+Tina Tinker is employed in: careers_Adult_Freelancer_Agency_Maker on None
+Yasemin Tinker is a young adult
+Yasemin Tinker lives on a lot: Pigulock Manor
+Yasemin Tinker is married
+Yasemin Tinker is employed in: careers_Adult_Freelancer_Agency_Writer on None
+Olive Tinker is a child
+Olive Tinker lives on a lot: Pigulock Manor
+Olive Tinker is single
+Makoa Kealoha is a young adult
+Makoa Kealoha lives on a lot: Kin-Ship
+Makoa Kealoha is married
+Makoa Kealoha is employed in: careers_Adult_Conservationist on 
+Lilliana Kealoha is a young adult
+Lilliana Kealoha lives on a lot: Kin-Ship
+Lilliana Kealoha is married
+Lilliana Kealoha is employed in: career_Adult_Culinary on None
+Duane Talla is a teen
+Duane Talla lives on a lot: Kin-Ship
+Duane Talla is single
+Duane Talla is employed in: career_Teen_Lifeguard on None
+Nani Kealoha is a toddler
+Nani Kealoha lives on a lot: Kin-Ship
+Nani Kealoha is single
+Keala Hoapili is an elder
+Keala Hoapili lives on a lot: Chieftain's Villa
+Keala Hoapili is single
+Lia Hauata is a young adult
+Lia Hauata lives on a lot: Chieftain's Villa
+Lia Hauata is single
+Lia Hauata is set to only be impregnated by other Sims
+Lia Hauata is employed in: career_Adult_Writer on None
+Oliana Ngata is a young adult
+Oliana Ngata lives on a lot: Reef Finery
+Oliana Ngata is married
+Oliana Ngata is employed in: career_Adult_Athletic on None
+Leila Illes is a young adult
+Leila Illes lives on a lot: Reef Finery
+Leila Illes is married
+Leila Illes is employed in: career_Adult_Painter on None
+Tane Ngata is a child
+Tane Ngata lives on a lot: Reef Finery
+Tane Ngata is single
+Alika Kahananui is an adult
+Alika Kahananui lives on a lot: Journey's End
+Alika Kahananui is married
+Alika Kahananui is employed in: career_Adult_Business on None
+Mele Kahananui is an adult
+Mele Kahananui lives on a lot: Journey's End
+Mele Kahananui is married
+Mele Kahananui is employed in: career_Adult_Culinary on None
+Nalani Mahi'ai is a young adult
+Nalani Mahi'ai is a homeless Sim
+Nalani Mahi'ai is single
+Nalani Mahi'ai is a mermaid
+Kalamainu’u Iona is a young adult
+Kalamainu’u Iona is a homeless Sim
+Kalamainu’u Iona is single
+Kalamainu’u Iona is a mermaid
+Ukupanipo Hekekia is a young adult
+Ukupanipo Hekekia is a homeless Sim
+Ukupanipo Hekekia is single
+Ukupanipo Hekekia is a mermaid
+Paka’a Uha is a young adult
+Paka’a Uha is a homeless Sim
+Paka’a Uha is single
+Paka’a Uha is a mermaid
+Paka’a Uha is set to only impregnate other Sims
+Minerva Charm is an elder
+Minerva Charm lives on a lot: Rock Ridge Canyon
+Minerva Charm is single
+Minerva Charm is a spellcaster
+Gemma Charm is a teen
+Gemma Charm lives on a lot: Rock Ridge Canyon
+Gemma Charm is single
+Gemma Charm is a spellcaster
+Darrel Charm is a young adult
+Darrel Charm lives on a lot: Rock Ridge Canyon
+Darrel Charm is single
+Darrel Charm is a spellcaster
+Darrel Charm is set to only impregnate other Sims
+Darrel Charm is employed in: career_Adult_Business on None
+Emilia Ernest is a young adult
+Emilia Ernest lives on a lot: Rock Ridge Canyon
+Emilia Ernest is single
+Emilia Ernest is a spellcaster
+Emilia Ernest is employed in: career_Adult_Culinary on None
+Grace Anansi is a young adult
+Grace Anansi lives on a lot: Creek Side Corner
+Grace Anansi is single
+Grace Anansi is a spellcaster
+Grace Anansi is employed in: career_Adult_TechGuru on None
+Tomax Collette is a young adult
+Tomax Collette lives on a lot: Creek Side Corner
+Tomax Collette is single
+Tomax Collette is a spellcaster
+Tomax Collette is employed in: career_Adult_Writer on None
+Anaya Jang is a young adult
+Anaya Jang lives on a lot: 121 Hakim House
+Anaya Jang is married
+Anaya Jang is employed in: career_Adult_Painter on None
+Baako Jang is an adult
+Baako Jang lives on a lot: 121 Hakim House
+Baako Jang is married
+Baako Jang is employed in: career_Adult_Entertainer on None
+Billie Jang is a child
+Billie Jang lives on a lot: 121 Hakim House
+Billie Jang is single
+Salim Benali is a young adult
+Salim Benali lives on a lot: 910 Medina Studios
+Salim Benali is single
+Salim Benali is employed in: career_Adult_Writer on None
+Lily Feng is an adult
+Lily Feng lives on a lot: IX Landgraab
+Lily Feng is married
+Lily Feng is employed in: career_Adult_Business on None
+Victor Feng is an adult
+Victor Feng lives on a lot: IX Landgraab
+Victor Feng is married
+Victor Feng is employed in: careers_Adult_Activist on None
+Diego Lobo is a young adult
+Diego Lobo lives on a lot: 1020 Alto Apartments
+Diego Lobo is single
+Diego Lobo is employed in: careers_Adult_Critic on None
+Raj Rasoya is a young adult
+Raj Rasoya lives on a lot: 20 Culpepper House
+Raj Rasoya is single
+Raj Rasoya is employed in: career_Adult_Culinary on None
+Geeta Rasoya is an elder
+Geeta Rasoya lives on a lot: 20 Culpepper House
+Geeta Rasoya is single
+Geeta Rasoya is employed in: careers_Adult_Critic on None
+Arun Bheeda is a young adult
+Arun Bheeda lives on a lot: 2A Jasmine Suites
+Arun Bheeda is married
+Arun Bheeda is employed in: career_Adult_TechGuru on None
+Jesminder Bheeda is a young adult
+Jesminder Bheeda lives on a lot: 2A Jasmine Suites
+Jesminder Bheeda is married
+Jesminder Bheeda is pregnant
+Jesminder Bheeda is employed in: career_Adult_Culinary on None
+Penny Pizzazz is a young adult
+Penny Pizzazz lives on a lot: 1312 21 Chic Street
+Penny Pizzazz is single
+Penny Pizzazz is employed in: careers_Adult_SocialMedia on None
+Akira Kibo is a young adult
+Akira Kibo lives on a lot: 701 ZenView
+Akira Kibo is single
+Akira Kibo is employed in: career_Adult_TechGuru on None
+Miko Ojo is a young adult
+Miko Ojo lives on a lot: 701 ZenView
+Miko Ojo is single
+Miko Ojo is employed in: careers_Adult_Activist on None
+Darling Walsh is a teen
+Darling Walsh lives on a lot: 701 ZenView
+Darling Walsh is single
+Ian Moody is an elder
+Ian Moody lives on a lot: 14 Nettle Lane
+Ian Moody is married
+Derek McMillan is an elder
+Derek McMillan lives on a lot: 14 Nettle Lane
+Derek McMillan is married
+Imran Watson is a child
+Imran Watson lives on a lot: Olde Mill Hill
+Imran Watson is single
+Maira Watson is a child
+Maira Watson lives on a lot: Olde Mill Hill
+Maira Watson is single
+Rahmi Watson is a young adult
+Rahmi Watson lives on a lot: Olde Mill Hill
+Rahmi Watson is married
+Rahmi Watson is employed in: career_Adult_StyleInfluencer on None
+Rashidah Watson is a teen
+Rashidah Watson lives on a lot: Olde Mill Hill
+Rashidah Watson is single
+Rashidah Watson is employed in: career_Teen_Babysitter on None
+Thomas Watson is a young adult
+Thomas Watson lives on a lot: Olde Mill Hill
+Thomas Watson is married
+Cecilia Kang is a young adult
+Cecilia Kang lives on a lot: 4 Olde Mill Lane
+Cecilia Kang is single
+Cecilia Kang is employed in: careers_Adult_Freelancer_Agency_Programmer on None
+Sara Scott is a young adult
+Sara Scott lives on a lot: 3 Cobblebottom Street
+Sara Scott is married
+Sara Scott is employed in: career_Adult_CottageWorld_NPC_PubOwner on None
+Simon Scott is a young adult
+Simon Scott lives on a lot: 3 Cobblebottom Street
+Simon Scott is married
+Agnes Crumplebottom is an elder
+Agnes Crumplebottom is in the hidden household, Crumplebottom.
+Agnes Crumplebottom is a homeless Sim
+Agnes Crumplebottom is single
+Agnes Crumplebottom will not die because of the <class 'sims4.tuning.instances.trait_Hidden_CottageWorld_NPC_AgnesCrumplebottom'> trait
+Agnes Crumplebottom is employed in: career_Adult_CottageWorld_NPC_GardenShopOwner on None
+Agatha Crumplebottom is an elder
+Agatha Crumplebottom is in the hidden household, Crumplebottom.
+Agatha Crumplebottom is a homeless Sim
+Agatha Crumplebottom is single
+Agatha Crumplebottom will not die because of the <class 'sims4.tuning.instances.trait_Hidden_CottageWorld_NPC_AgathaCrumplebottom'> trait
+Agatha Crumplebottom is employed in: career_Adult_CottageWorld_NPC_GardenShopOwner on None
+Michael Bell is an adult
+Michael Bell is a homeless Sim
+Michael Bell is single
+Lavina Chopra is an adult
+Lavina Chopra is a homeless Sim
+Lavina Chopra is single
+Lavina Chopra is employed in: career_Adult_CottageWorld_NPC_Mayor on None
+Rahul Chopra is a teen
+Rahul Chopra is a homeless Sim
+Rahul Chopra is single
+Rahul Chopra is employed in: career_Adult_CottageWorld_NPC_GroceryDelivery on None
+Kim Goldbloom is a young adult
+Kim Goldbloom is a homeless Sim
+Kim Goldbloom is single
+Kim Goldbloom is employed in: career_Adult_CottageWorld_NPC_GroceryOwner on None
+Maaike Haas is a young adult
+Maaike Haas lives on a lot: Cottage Am See
+Maaike Haas is single
+Maaike Haas is employed in: career_Adult_Writer on None
+Maaike Haas is a member of club: MisfitClub
+Ulrike Faust is a young adult
+Ulrike Faust lives on a lot: Cottage Am See
+Ulrike Faust is single
+Ulrike Faust is employed in: career_Adult_Painter on None
+Ulrike Faust is a member of club: Rebels
+Dominic Fyres is an adult
+Dominic Fyres lives on a lot: Dresden House
+Dominic Fyres is married
+Dominic Fyres is employed in: career_Adult_Entertainer on None
+Dominic Fyres is a member of club: DJs
+Dominic Fyres is a member of club: OldTimers
+Moira Fyres is an adult
+Moira Fyres lives on a lot: Dresden House
+Moira Fyres is married
+Moira Fyres is a member of club: Outdoors
+Siobhan Fyres is a young adult
+Siobhan Fyres lives on a lot: Dresden House
+Siobhan Fyres is single
+Siobhan Fyres is employed in: career_Adult_Business on None
+Siobhan Fyres is a member of club: PopularClub
+Morgan Fyres is a teen
+Morgan Fyres lives on a lot: Dresden House
+Morgan Fyres is single
+Morgan Fyres is a member of club: Rebels
+Mila Munch is an adult
+Mila Munch lives on a lot: Coorinberg Cottage
+Mila Munch is single
+Mila Munch is employed in: career_Adult_Culinary on None
+Mila Munch is a member of club: FoodieClub
+Mila Munch is a member of club: OldTimers
+Gunther Munch is a young adult
+Gunther Munch lives on a lot: Coorinberg Cottage
+Gunther Munch is single
+Gunther Munch is employed in: career_Adult_Writer on None
+Gunther Munch is a member of club: MisfitClub
+Wolfgang Munch is a teen
+Wolfgang Munch lives on a lot: Coorinberg Cottage
+Wolfgang Munch is single
+Wolfgang Munch is a member of club: Rebels
+Wolfgang Munch is a member of club: KnightClub
+Lucas Munch is a child
+Lucas Munch lives on a lot: Coorinberg Cottage
+Lucas Munch is single
+Lucas Munch is a member of club: Outdoors
+Lucas Munch is a member of club: Kids
+Jacques Villareal is an elder
+Jacques Villareal lives on a lot: Von-Windenburg Estate
+Jacques Villareal is single
+Jacques Villareal is employed in: career_Adult_Criminal on None
+Jacques Villareal is a member of club: KnightClub
+Jacques Villareal is a member of club: OldTimers
+Luna Villareal is a teen
+Luna Villareal lives on a lot: Von-Windenburg Estate
+Luna Villareal is single
+Luna Villareal is employed in: career_Volunteer_Scouting on 
+Luna Villareal is a member of club: PopularClub
+Hugo Villareal is a teen
+Hugo Villareal lives on a lot: Von-Windenburg Estate
+Hugo Villareal is single
+Hugo Villareal is a member of club: MisfitClub
+Hugo Villareal is a member of club: FoodieClub
+Max Villareal is a child
+Max Villareal lives on a lot: Von-Windenburg Estate
+Max Villareal is single
+Max Villareal is a member of club: Rebels
+Max Villareal is a member of club: Kids
+Bjorn Bjergsen is an adult
+Bjorn Bjergsen lives on a lot: The Lighthouse
+Bjorn Bjergsen is married
+Bjorn Bjergsen is employed in: career_Adult_SecretAgent on None
+Bjorn Bjergsen is a member of club: Outdoors
+Bjorn Bjergsen is a member of club: OldTimers
+Clara Bjergsen is an adult
+Clara Bjergsen lives on a lot: The Lighthouse
+Clara Bjergsen is married
+Clara Bjergsen is employed in: career_Adult_Culinary on None
+Clara Bjergsen is a member of club: FitnessClub
+Clara Bjergsen is a member of club: FoodieClub
+Sofia Bjergsen is a teen
+Sofia Bjergsen lives on a lot: The Lighthouse
+Sofia Bjergsen is single
+Sofia Bjergsen is a member of club: PopularClub
+Elsa Bjergsen is a child
+Elsa Bjergsen lives on a lot: The Lighthouse
+Elsa Bjergsen is single
+Elsa Bjergsen is a member of club: Kids
+Joaquin Le Chien is a young adult
+Joaquin Le Chien lives on a lot: Dock Den
+Joaquin Le Chien is single
+Joaquin Le Chien is employed in: career_Adult_Entertainer on None
+Joaquin Le Chien is a member of club: DJs
+Sergio Romeo is a young adult
+Sergio Romeo lives on a lot: Dock Den
+Sergio Romeo is single
+Sergio Romeo is employed in: career_Adult_TechGuru on None
+Sergio Romeo is a member of club: PopularClub
+Yuki Behr is a teen
+Yuki Behr lives on a lot: Waterlock Redoubt
+Yuki Behr is single
+Yuki Behr is a member of club: MisfitClub
+Yuki Behr is a member of club: KnightClub
+Candy Behr is a young adult
+Candy Behr lives on a lot: Waterlock Redoubt
+Candy Behr is single
+Candy Behr is employed in: career_Adult_Entertainer on None
+Candy Behr is a member of club: DJs
+Eva Capricciosa is a young adult
+Eva Capricciosa lives on a lot: Factory One
+Eva Capricciosa is single
+Eva Capricciosa is a member of club: PartyHouse
+Jade Rosa is a young adult
+Jade Rosa lives on a lot: Factory One
+Jade Rosa is single
+Jade Rosa is employed in: career_Adult_Business on None
+Jade Rosa is a member of club: PartyHouse
+Marcus Flex is an adult
+Marcus Flex lives on a lot: Factory One
+Marcus Flex is single
+Marcus Flex is a member of club: PartyHouse
+Marcus Flex is a member of club: FitnessClub
+Paolo Rocca is a young adult
+Paolo Rocca lives on a lot: Factory One
+Paolo Rocca is single
+Paolo Rocca is employed in: career_Adult_Athletic on None
+Paolo Rocca is a member of club: PartyHouse
+Paolo Rocca is a member of club: FitnessClub
+Lilith Vatore is a young adult
+Lilith Vatore lives on a lot: Wolfsbane Manor
+Lilith Vatore is single
+Lilith Vatore is a vampire
+Lilith Vatore will not age-up because of the <class 'sims4.tuning.instances.trait_OccultVampire'> trait
+Caleb Vatore is a young adult
+Caleb Vatore lives on a lot: Wolfsbane Manor
+Caleb Vatore is single
+Caleb Vatore is a vampire
+Caleb Vatore will not age-up because of the <class 'sims4.tuning.instances.trait_OccultVampire'> trait
+Vladislaus Straud is a young adult
+Vladislaus Straud lives on a lot: Straud Mansion
+Vladislaus Straud is single
+Vladislaus Straud is a vampire
+Vladislaus Straud will not age-up because of the <class 'sims4.tuning.instances.trait_OccultVampire'> trait
+Vladislaus Straud will not age-up because of the <class 'sims4.tuning.instances.trait_IntroToVampire_Caller'> trait
+Morgyn Ember is a young adult
+Morgyn Ember is a homeless Sim
+Morgyn Ember is single
+Morgyn Ember is a spellcaster
+Morgyn Ember is set to never be pregnant or impregnate another Sim
+L. Faba is an adult
+L. Faba is a homeless Sim
+L. Faba is single
+L. Faba is a spellcaster
+Simeon Silversweater is an adult
+Simeon Silversweater is a homeless Sim
+Simeon Silversweater is single
+Simeon Silversweater is a spellcaster
+Venessa Jeong is a young adult
+Venessa Jeong lives on a lot: Upland Place
+Venessa Jeong is single
+Venessa Jeong is employed in: career_Adult_Active_ActorCareer on None
+Judith Ward is an adult
+Judith Ward lives on a lot: The Ward Den
+Judith Ward is single
+Judith Ward is employed in: career_Adult_Active_ActorCareer on None
+Thorne Bailey is a young adult
+Thorne Bailey lives on a lot: Bailey-Moon Manor
+Thorne Bailey is married
+Thorne Bailey is employed in: career_Adult_Entertainer on None
+Octavia Moon is a young adult
+Octavia Moon lives on a lot: Bailey-Moon Manor
+Octavia Moon is married
+Octavia Moon is employed in: career_Adult_Writer on None
+Orange Bailey-Moon is a child
+Orange Bailey-Moon lives on a lot: Bailey-Moon Manor
+Orange Bailey-Moon is single
+Brytani Cho is an adult
+Brytani Cho is a homeless Sim
+Brytani Cho is single
+Brytani Cho is employed in: career_Adult_Entertainer on None
+Dirk Dreamer is a young adult
+Dirk Dreamer is a homeless Sim
+Dirk Dreamer is single
+Dirk Dreamer is employed in: career_Adult_TechGuru on None
+Dustin Broke is a young adult
+Dustin Broke is a homeless Sim
+Dustin Broke is single
+Dustin Broke is employed in: career_Adult_Business on None
+Holly Alto is a young adult
+Holly Alto is a homeless Sim
+Holly Alto is single
+Holly Alto is employed in: career_Adult_Painter on None
+Izzy Fabulous is a young adult
+Izzy Fabulous is a homeless Sim
+Izzy Fabulous is single
+Izzy Fabulous is employed in: career_Adult_StyleInfluencer on None
+Kayla Flemming is a young adult
+Kayla Flemming is a homeless Sim
+Kayla Flemming is single
+Kayla Flemming is employed in: career_Adult_Athletic on None
+Baby Ariel is a teen
+Baby Ariel is a homeless Sim
+Baby Ariel is single
+Baby Ariel will not die because of the <class 'sims4.tuning.instances.trait_SpecialNPCs_BabyAriel'> trait
+Catarina Lynx is a young adult
+Catarina Lynx lives on a lot: Catscratch Cottage
+Catarina Lynx is single
+Catarina Lynx is employed in: career_Adult_Culinary on None
+Doc is an elder
+Doc is a Cat
+Doc lives on a lot: Catscratch Cottage
+Doc is single
+Josie is an adult
+Josie is a Cat
+Josie lives on a lot: Catscratch Cottage
+Josie is single
+Cleo is an adult
+Cleo is a Cat
+Cleo lives on a lot: Catscratch Cottage
+Cleo is single
+Bartholomew A. Bittlebun, Jr. is a child
+Bartholomew A. Bittlebun, Jr. is a Cat
+Bartholomew A. Bittlebun, Jr. lives on a lot: Catscratch Cottage
+Bartholomew A. Bittlebun, Jr. is single
+Supriya Delgato is a young adult
+Supriya Delgato lives on a lot: Chateau Frise
+Supriya Delgato is married
+Justin Delgato is a young adult
+Justin Delgato lives on a lot: Chateau Frise
+Justin Delgato is married
+Justin Delgato is employed in: career_Adult_Business on None
+Evie Delgato is a toddler
+Evie Delgato lives on a lot: Chateau Frise
+Evie Delgato is single
+Pierce Delgato is a child
+Pierce Delgato lives on a lot: Chateau Frise
+Pierce Delgato is single
+Blue is an adult
+Blue is a Dog
+Blue lives on a lot: Chateau Frise
+Blue is single
+Bartholomew A. Bittlebun, Sr. is an adult
+Bartholomew A. Bittlebun, Sr. is a Cat
+Bartholomew A. Bittlebun, Sr. lives on a lot: Chateau Frise
+Bartholomew A. Bittlebun, Sr. is single
+Brant Hecking is a young adult
+Brant Hecking lives on a lot: It's A Good House
+Brant Hecking is married
+Brant Hecking is employed in: career_Adult_Athletic on None
+Brent Hecking is a young adult
+Brent Hecking lives on a lot: It's A Good House
+Brent Hecking is married
+Brent Hecking is employed in: career_Adult_Painter on None
+Rosie is an adult
+Rosie is a Dog
+Rosie lives on a lot: It's A Good House
+Rosie is single
+Mayor Whiskers is an adult
+Mayor Whiskers is a Cat
+Mayor Whiskers is a homeless Sim
+Mayor Whiskers is single
+Captain Whitaker is a ghost and is in the Whitaker household.
+Lt. Agnon is an adult
+Lt. Agnon is in the hidden household, Lt. Agnon.
+Lt. Agnon is a homeless Sim
+Lt. Agnon is single
+Lt. Agnon will not die because of the <class 'sims4.tuning.instances.trait_Batuu_FirstOrder_SNPC_Agnon_Identifier'> trait
+Kylo Ren is a young adult
+Kylo Ren is in the hidden household, Kylo.
+Kylo Ren is a homeless Sim
+Kylo Ren is single
+Kylo Ren will not die because of the <class 'sims4.tuning.instances.trait_Batuu_FirstOrder_SNPC_Kylo_Identifier'> trait
+Rey is a young adult
+Rey is in the hidden household, Rey.
+Rey is a homeless Sim
+Rey is single
+Rey will not die because of the <class 'sims4.tuning.instances.trait_Batuu_Resistance_SNPC_Rey_Identifier'> trait
+Vi Moradi is a young adult
+Vi Moradi is in the hidden household, Moradi.
+Vi Moradi is a homeless Sim
+Vi Moradi is single
+Vi Moradi will not die because of the <class 'sims4.tuning.instances.trait_Batuu_Resistance_SNPC_Vi_Identifier'> trait
+Hondo Ohnaka is an adult
+Hondo Ohnaka is in the hidden household, Ohnaka.
+Hondo Ohnaka is a homeless Sim
+Hondo Ohnaka is single
+Hondo Ohnaka will not die because of the <class 'sims4.tuning.instances.trait_Batuu_Scoundrel_SNPC_Hondo_Identifier'> trait
+Becca Clarke is a young adult
+Becca Clarke lives on a lot: Wyvern Hall
+Becca Clarke is single
+Becca Clarke is enrolled in a university.
+Julia Wright is a young adult
+Julia Wright lives on a lot: Wyvern Hall
+Julia Wright is single
+Julia Wright is enrolled in a university.
+Eleanor Elderberry is an elder
+Eleanor Elderberry lives on a lot: Spring Steppes
+Eleanor Elderberry is married
+Ekram Elderberry is an elder
+Ekram Elderberry lives on a lot: Spring Steppes
+Ekram Elderberry is married
+Rohan Elderberry is a teen
+Rohan Elderberry lives on a lot: Spring Steppes
+Rohan Elderberry is single
+Angela Pleasant is a young adult
+Angela Pleasant lives on a lot: Mossy Lane
+Angela Pleasant is single
+Angela Pleasant is enrolled in a university.
+Lilith Pleasant is a young adult
+Lilith Pleasant lives on a lot: Mossy Lane
+Lilith Pleasant is single
+Lilith Pleasant is enrolled in a university.
+Cameron Fletcher is a young adult
+Cameron Fletcher lives on a lot: Briny Tower
+Cameron Fletcher is single
+Cameron Fletcher is enrolled in a university.
+Serena Bhamra is an adult
+Serena Bhamra is a homeless Sim
+Serena Bhamra is single
+Serena Bhamra is employed in: career_Adult_NPC_ProfessorNPC_Science on None
+Jing Fen is an elder
+Jing Fen is a homeless Sim
+Jing Fen is single
+Jing Fen is employed in: career_Adult_NPC_ProfessorNPC_Arts on None
+Thomas Jabari is an elder
+Thomas Jabari is a homeless Sim
+Thomas Jabari is single
+Thomas Jabari is employed in: career_Adult_NPC_ProfessorNPC_Arts on None
+Lana McKinnon is an adult
+Lana McKinnon is a homeless Sim
+Lana McKinnon is single
+Lana McKinnon is employed in: career_Adult_NPC_ProfessorNPC_Science on None
+Felix Psyded is a ghost and is in the Psyded household.
+Jess Sigworth is a young adult
+Jess Sigworth lives on a lot: Riverside Grove
+Jess Sigworth is married
+Jess Sigworth is employed in: careers_Adult_Military on None
+Dylan Sigworth is a young adult
+Dylan Sigworth lives on a lot: Riverside Grove
+Dylan Sigworth is married
+Christie Sigworth is a child
+Christie Sigworth lives on a lot: Riverside Grove
+Christie Sigworth is single
+George Cahill is an elder
+George Cahill lives on a lot: Old Penelope
+George Cahill is single
+Mark Eggleston is a young adult
+Mark Eggleston lives on a lot: Dream Weavers Way
+Mark Eggleston is single
+Alice Martin is a young adult
+Alice Martin lives on a lot: Dream Weavers Way
+Alice Martin is single
+Leslie Holland is a young adult
+Leslie Holland lives on a lot: Dream Weavers Way
+Leslie Holland is single
+Ted Roswell is an adult
+Ted Roswell lives on a lot: StrangerVille Overlook
+Ted Roswell is married
+Meredith Roswell is an adult
+Meredith Roswell lives on a lot: StrangerVille Overlook
+Meredith Roswell is married
+Erwin Pries is a young adult
+Erwin Pries is in the hidden household, Pries.
+Erwin Pries is a homeless Sim
+Erwin Pries is single
+Erwin Pries is employed in: career_Adult_NPC_CurioShopOwner on None
+Clement Frost is an adult
+Clement Frost is a homeless Sim
+Clement Frost is single
+Clement Frost will not die because of the <class 'sims4.tuning.instances.trait_HolidayTradition_FatherWinter'> trait
+Clement Frost is employed in: career_Adult_NPC_FatherWinter on None
+Zoe Patel is a young adult
+Zoe Patel lives on a lot: Cacti Casa
+Zoe Patel is single
+Mitchell Kalani is a young adult
+Mitchell Kalani lives on a lot: Cacti Casa
+Mitchell Kalani is single
+Mitchell Kalani is employed in: career_Adult_Culinary on None
+J Huntington III is a young adult
+J Huntington III lives on a lot: Cacti Casa
+J Huntington III is single
+J Huntington III is employed in: career_Adult_TechGuru on None
+Gavin Richards is a young adult
+Gavin Richards lives on a lot: Cacti Casa
+Gavin Richards is single
+Gavin Richards is employed in: career_Adult_Writer on None
+Katrina Caliente is an adult
+Katrina Caliente lives on a lot: Sultry Springside
+Katrina Caliente is single
+Katrina Caliente is employed in: career_Adult_Entertainer on None
+Dina Caliente is a young adult
+Dina Caliente lives on a lot: Sultry Springside
+Dina Caliente is single
+Dina Caliente is employed in: career_Adult_Culinary on None
+Nina Caliente is a young adult
+Nina Caliente lives on a lot: Sultry Springside
+Nina Caliente is single
+Don Lothario is a young adult
+Don Lothario lives on a lot: Sultry Springside
+Don Lothario is single
+Johnny Zest is a young adult
+Johnny Zest lives on a lot: Slipshod Mesquite
+Johnny Zest is single
+Johnny Zest is employed in: career_Adult_Entertainer on None
+Geoffrey Landgraab is an adult
+Geoffrey Landgraab lives on a lot: Affluista Mansion
+Geoffrey Landgraab is married
+Geoffrey Landgraab is employed in: career_Adult_SecretAgent on None
+Nancy Landgraab is an adult
+Nancy Landgraab lives on a lot: Affluista Mansion
+Nancy Landgraab is married
+Nancy Landgraab is employed in: career_Adult_Criminal on 
+Malcolm Landgraab is a teen
+Malcolm Landgraab lives on a lot: Affluista Mansion
+Malcolm Landgraab is single
+Naoki Ito is a young adult
+Naoki Ito lives on a lot: 2-5-1 Wakabamori
+Naoki Ito is married
+Naoki Ito is employed in: career_Adult_Business on None
+Megumi Ito is a young adult
+Megumi Ito lives on a lot: 2-5-1 Wakabamori
+Megumi Ito is married
+Megumi Ito is employed in: career_Adult_Business on None
+Kiyoshi Ito is a teen
+Kiyoshi Ito lives on a lot: 2-5-1 Wakabamori
+Kiyoshi Ito is single
+Nanami Ito is a child
+Nanami Ito lives on a lot: 2-5-1 Wakabamori
+Nanami Ito is single
+Shigeru Nishidake is an elder
+Shigeru Nishidake lives on a lot: 5-6-1 Shinrinyoku
+Shigeru Nishidake is married
+Sachiko Nishidake is an elder
+Sachiko Nishidake lives on a lot: 5-6-1 Shinrinyoku
+Sachiko Nishidake is married
+Kaori Nishidake is a teen
+Kaori Nishidake lives on a lot: 5-6-1 Shinrinyoku
+Kaori Nishidake is single
+Kado Akiyama is a young adult
+Kado Akiyama lives on a lot: 5-3-1 Shinrinyoku
+Kado Akiyama is married
+Kado Akiyama is employed in: careers_Adult_CorporateWorker on None
+Jenna Akiyama is a young adult
+Jenna Akiyama lives on a lot: 5-3-1 Shinrinyoku
+Jenna Akiyama is married
+Jenna Akiyama is employed in: careers_Adult_CorporateWorker on None
+Taku Akiyama is a child
+Taku Akiyama lives on a lot: 5-3-1 Shinrinyoku
+Taku Akiyama is single
+Miki Akiyama is a child
+Miki Akiyama lives on a lot: 5-3-1 Shinrinyoku
+Miki Akiyama is single
+==================================================================================
+Total Sims: 194
+Total Culled/Netherworld Sims: 0
+Total Female Sims: 104
+Total Male Sims: 90
+Total Grim Reapers: 0
+Total Babies - Female: 0, Male: 0
+Total Toddlers - Female: 2, Male: 0
+Total Children - Female: 8, Male: 10
+Total Teens - Female: 10, Male: 8
+Total Young Adults - Female: 55, Male: 44
+Total Adults - Female: 18, Male: 16
+Total Elders - Female: 11, Male: 10
+Total Ghosts: 2
+Total Homeless Sims: 33
+Total Homed Sims: 159
+Total Married Sims: 54
+Total Pregnant Sims: 1
+Total Sims in Hidden Households: 8
+Total Aliens: 1
+Total Alien Hybrids: 0
+Total Vampires: 3
+Total Mermaids: 4
+Total Spellcasters: 9
+Total Cats: 6
+Total Dogs: 2
+Total Special Sims: 1
+----------------------------------------------------------------------------------
+Total Households: 89
+Total Homeless Households: 31
+Total Homed Households: 58

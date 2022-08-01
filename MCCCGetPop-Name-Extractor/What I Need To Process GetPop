@@ -1,0 +1,6 @@
+what I actually need for this purpose (ease of processing MCCC GetPop files)
+
+- read file
+- identify last name in each line
+- sort lines by last name then by first name then by order of occurance
+- write to new file

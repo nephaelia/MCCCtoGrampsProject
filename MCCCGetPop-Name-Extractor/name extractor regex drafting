@@ -1,0 +1,11 @@
+//example raw file:
+Felix Psyded is a ghost and is in the Psyded household.
+Jess Sigworth is a young adult
+Jess Sigworth lives on a lot: Riverside Grove
+Jess Sigworth is married
+Jess Sigworth is employed in: careers_Adult_Military on None
+Dylan Sigworth is a young adult
+Dylan Sigworth lives on a lot: Riverside Grove
+Dylan Sigworth is married
+
+^(.+ .+)$
