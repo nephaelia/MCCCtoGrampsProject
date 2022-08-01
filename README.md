@@ -1,2 +1,3 @@
 # MCCCtoGrampsProject
- Long-term goal: extract data from MCCC files and enter it into a MySQL database readable by Gramps
+*Long-term goal: extract data from MCCC files and enter it into a MySQL database readable by Gramps*
+This is still very very early stages, but eventually I would like to have a program that is able to extract population data from MCCC GetPopulation files and MCCC Log files and put it in a database that would be usable by Gramps in order to keep track of the population (including births, deaths, adoptions, age changes, creation of new sims, etc). Doing this by hand is extremely tedious (even for me, who finds some satisfaction in repetitive, detailed tasks), so I think for the ultranerds like myself who want to keep track of everything this would be amazing.
